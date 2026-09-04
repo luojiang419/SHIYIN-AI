@@ -1,0 +1,11 @@
+{
+    "version":  "1.0.400",
+    "tag":  "v1.0.400",
+    "sourceRepository":  "luojiang419/SHIYIN-AI-source",
+    "sourceSha":  "7d0783a18c0a43fb9ff7d04bbe7c52051f715dbd",
+    "assetName":  "SHIYIN-AI-Setup-1.0.400.exe",
+    "assetSize":  92336040,
+    "sha256":  "64d73ea2a1db90cb13d65a0412944415fc9bbf1a6b10ea7eec3c3155358b47be",
+    "signatureStatus":  "NotSigned",
+    "generatedAtUtc":  "2026-09-04T02:32:01.9322511Z"
+}
